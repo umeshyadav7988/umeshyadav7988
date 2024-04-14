@@ -1,26 +1,7 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19748
-Fork on GitHub
-5932
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Umesh Rao</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshyadav7988&label=Profile%20views&color=0e75b6&style=flat" alt="umeshyadav7988" /> </p>
-
-- 🔭 I’m currently working on **Exam_Nexus**
-
 - 📫 How to reach me **umeshyadav7988@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
