@@ -9,10 +9,7 @@
 <a href="https://dev.to/https://dev.to/umesh_yadav_7074ea5274789" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/umesh_yadav_7074ea5274789" height="30" width="40" /></a>
 <a href="https://twitter.com/umeshyadav74493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umeshyadav74493" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umesh-rao-724526219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umesh-rao-724526219/" height="30" width="40" /></a>
-<a href="https://kaggle.com/umesh9896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="umesh9896" height="30" width="40" /></a>
 <a href="https://instagram.com/imumeshrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imumeshrao" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/umeshyadav7988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/umeshyadav7988" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/9yVxRsSZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9yVxRsSZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
