@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Umesh Rao</h1>
-<h3 align="center"><b></b>Full Stack Developer from Rewari,Haryana,India</b></h3>
+<h3 align="center"><b></b>Software Developer from Rewari,Haryana,India</b></h3>
 
 
 - 📫 How to reach me **umeshyadav7988@gmail.com**
