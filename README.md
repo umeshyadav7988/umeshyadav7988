@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Umesh Rao
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Software+Developer+%7C+AI%2FML+Enthusiast;Full+Stack+Developer+%7C+Problem+Solver;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=AI Software+Developer+%7C+AI%2FML;Full+Stack+Developer+%7C+Problem+Solver;Building+the+Future+with+Code+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://linkedin.com/in/umeshyadav7988"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
