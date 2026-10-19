@@ -1,131 +1,63 @@
-<div align="center">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkZjMzNWJlYy04OGNjLTRiNzMtYWM0Yi1lYThlMzA3ODY5NGEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaOJtN97J2ag4htYOpVOtNgQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo4NmZjZDA0Mi1jNzY1LTQwN2MtYjVkMC0yMjlkNGI3ZThhNTdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoq7PBT2Sp2I3YLJ8O4n9o8wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgglVKG1xfjd5JrDZuSNq+Phq+OGqP0y5CyhXImgYayS2ekZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaEqUQtCSqjIm/6ZD8RRykd8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAga3/+MdGDqKMd2z5ayYA5zfRwBo2ZBi/Q+MellaFF92RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBijZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmRmMzM1YmVjLTg4Y2MtNGI3My1hYzRiLWVhOGUzMDc4Njk0YS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmEyMTdkMDcwLTRhNTUtNDE1Yy04MWI4LWU4N2FjN2I3NzIyN3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCVUobXF+N3kmsNm5I2r4+Gr44ao/TLkLKFciaBhrJLZ6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg1ygdm03s3GdenXyDtxjsgxlhPWlT0g/LAnPcUD/Ua22iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggldTm8DMkLUgIl+1U0VpVlcsIOhHkXWg+LAK17/3LFTt0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEW1mVaB2SjdqzCUQq74tc8fuo0Yraw8tFN+gRnxuIzQrbIHEcv475NVqxU7GYaRgITlxInuaW2+0ZWhmmKMCGc=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060A1C"/><stop offset="1" stop-color="#0E1433"/>
+    </linearGradient>
+    <linearGradient id="bridge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFD43B"/>
+      <stop offset=".5" stop-color="#FF6EC7"/>
+      <stop offset="1" stop-color="#61DAFB"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" opacity=".06"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <linearGradient id="hbridge" gradientUnits="userSpaceOnUse" x1="418" y1="0" x2="556" y2="0">
+      <stop offset="0" stop-color="#FFD43B"/><stop offset="1" stop-color="#61DAFB"/>
+    </linearGradient>
+    <linearGradient id="fbridge" gradientUnits="userSpaceOnUse" x1="300" y1="0" x2="900" y2="0">
+      <stop offset="0" stop-color="#FFD43B"/><stop offset=".5" stop-color="#FF6EC7"/><stop offset="1" stop-color="#61DAFB"/>
+    </linearGradient>
+    
+  </defs><style>
+      .reveal { opacity: 0; animation: up .7s cubic-bezier(.2,.8,.2,1) forwards; }
+      .r1 { animation-delay: .3s } .r2 { animation-delay: .7s }
+      .r3 { animation-delay: 1.1s } .r4 { animation-delay: 1.5s }
+      @keyframes up { from { opacity: 0; transform: translateY(14px) } to { opacity: 1; transform: none } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+      @media (prefers-reduced-motion: reduce) { .reveal { animation: none; opacity: 1 } .cursor { animation: none } }
+    </style><rect width="1200" height="440" rx="22" fill="url(#bg)"/><rect width="1200" height="440" rx="22" fill="url(#dots)"/><rect x=".5" y=".5" width="1199" height="439" rx="22" fill="none" stroke="#ffffff" stroke-opacity=".08"/><circle cx="260" cy="220" r="160" fill="#3776AB" opacity=".18" filter="url(#softglow)"/><circle cx="900" cy="230" r="200" fill="#61DAFB" opacity=".08" filter="url(#softglow)"/><line x1="110" y1="80.0" x2="210" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="80.0" x2="210" y2="136.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="80.0" x2="210" y2="192.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="80.0" x2="210" y2="248.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="80.0" x2="210" y2="304.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="80.0" x2="210" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="173.33333333333331" x2="210" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="173.33333333333331" x2="210" y2="136.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="173.33333333333331" x2="210" y2="192.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="173.33333333333331" x2="210" y2="248.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="173.33333333333331" x2="210" y2="304.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="173.33333333333331" x2="210" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="266.66666666666663" x2="210" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="266.66666666666663" x2="210" y2="136.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="266.66666666666663" x2="210" y2="192.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="266.66666666666663" x2="210" y2="248.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="266.66666666666663" x2="210" y2="304.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="266.66666666666663" x2="210" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="360.0" x2="210" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="360.0" x2="210" y2="136.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="360.0" x2="210" y2="192.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="360.0" x2="210" y2="248.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="360.0" x2="210" y2="304.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="110" y1="360.0" x2="210" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="80.0" x2="310" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="80.0" x2="310" y2="136.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="80.0" x2="310" y2="192.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="80.0" x2="310" y2="248.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="80.0" x2="310" y2="304.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="80.0" x2="310" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="136.0" x2="310" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="136.0" x2="310" y2="136.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="136.0" x2="310" y2="192.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="136.0" x2="310" y2="248.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="136.0" x2="310" y2="304.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="136.0" x2="310" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="192.0" x2="310" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="192.0" x2="310" y2="136.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="192.0" x2="310" y2="192.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="192.0" x2="310" y2="248.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="192.0" x2="310" y2="304.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="192.0" x2="310" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="248.0" x2="310" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="248.0" x2="310" y2="136.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="248.0" x2="310" y2="192.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="248.0" x2="310" y2="248.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="248.0" x2="310" y2="304.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="248.0" x2="310" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="304.0" x2="310" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="304.0" x2="310" y2="136.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="304.0" x2="310" y2="192.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="304.0" x2="310" y2="248.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="304.0" x2="310" y2="304.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="304.0" x2="310" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="360.0" x2="310" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="360.0" x2="310" y2="136.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="360.0" x2="310" y2="192.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="360.0" x2="310" y2="248.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="360.0" x2="310" y2="304.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="210" y1="360.0" x2="310" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="80.0" x2="410" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="80.0" x2="410" y2="220.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="80.0" x2="410" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="136.0" x2="410" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="136.0" x2="410" y2="220.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="136.0" x2="410" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="192.0" x2="410" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="192.0" x2="410" y2="220.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="192.0" x2="410" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="248.0" x2="410" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="248.0" x2="410" y2="220.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="248.0" x2="410" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="304.0" x2="410" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="304.0" x2="410" y2="220.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="304.0" x2="410" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="360.0" x2="410" y2="80.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="360.0" x2="410" y2="220.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><line x1="310" y1="360.0" x2="410" y2="360.0" stroke="#3776AB" stroke-opacity=".28" stroke-width="1"/><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="0.95s" repeatCount="indefinite" path="M110,266.66666666666663 L210,136.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.95s" repeatCount="indefinite"/></circle><circle r="3" fill="#61DAFB" filter="url(#glow)"><animateMotion dur="1.6s" begin="0.23s" repeatCount="indefinite" path="M110,80.0 L210,304.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.23s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="0.52s" repeatCount="indefinite" path="M110,80.0 L210,304.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.52s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="0.17s" repeatCount="indefinite" path="M110,360.0 L210,248.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.17s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="1.98s" repeatCount="indefinite" path="M110,360.0 L210,80.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.98s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="1.51s" repeatCount="indefinite" path="M210,136.0 L310,360.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.51s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="0.95s" repeatCount="indefinite" path="M210,304.0 L310,304.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="0.95s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="2.06s" repeatCount="indefinite" path="M210,80.0 L310,304.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="2.06s" repeatCount="indefinite"/></circle><circle r="3" fill="#61DAFB" filter="url(#glow)"><animateMotion dur="1.6s" begin="1.3s" repeatCount="indefinite" path="M210,248.0 L310,136.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.3s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="1.96s" repeatCount="indefinite" path="M210,192.0 L310,304.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.96s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="1.37s" repeatCount="indefinite" path="M310,80.0 L410,360.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.37s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="1.31s" repeatCount="indefinite" path="M310,192.0 L410,80.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.31s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="1.49s" repeatCount="indefinite" path="M310,304.0 L410,80.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.49s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="1.03s" repeatCount="indefinite" path="M310,360.0 L410,360.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="1.03s" repeatCount="indefinite"/></circle><circle r="3" fill="#FFD43B" filter="url(#glow)"><animateMotion dur="1.6s" begin="2.22s" repeatCount="indefinite" path="M310,248.0 L410,360.0"/><animate attributeName="opacity" values="0;1;1;0" dur="1.6s" begin="2.22s" repeatCount="indefinite"/></circle><circle cx="110" cy="80.0" r="9" fill="#060A1C" stroke="#FFD43B" stroke-width="2"/><circle cx="110" cy="80.0" r="4" fill="#FFD43B"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="110" cy="173.33333333333331" r="9" fill="#060A1C" stroke="#FFD43B" stroke-width="2"/><circle cx="110" cy="173.33333333333331" r="4" fill="#FFD43B"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.12s" repeatCount="indefinite"/></circle><circle cx="110" cy="266.66666666666663" r="9" fill="#060A1C" stroke="#FFD43B" stroke-width="2"/><circle cx="110" cy="266.66666666666663" r="4" fill="#FFD43B"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.24s" repeatCount="indefinite"/></circle><circle cx="110" cy="360.0" r="9" fill="#060A1C" stroke="#FFD43B" stroke-width="2"/><circle cx="110" cy="360.0" r="4" fill="#FFD43B"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.36s" repeatCount="indefinite"/></circle><circle cx="210" cy="80.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="210" cy="80.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.35s" repeatCount="indefinite"/></circle><circle cx="210" cy="136.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="210" cy="136.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.47s" repeatCount="indefinite"/></circle><circle cx="210" cy="192.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="210" cy="192.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.59s" repeatCount="indefinite"/></circle><circle cx="210" cy="248.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="210" cy="248.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.71s" repeatCount="indefinite"/></circle><circle cx="210" cy="304.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="210" cy="304.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.83s" repeatCount="indefinite"/></circle><circle cx="210" cy="360.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="210" cy="360.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.95s" repeatCount="indefinite"/></circle><circle cx="310" cy="80.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="310" cy="80.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.7s" repeatCount="indefinite"/></circle><circle cx="310" cy="136.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="310" cy="136.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.82s" repeatCount="indefinite"/></circle><circle cx="310" cy="192.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="310" cy="192.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="0.94s" repeatCount="indefinite"/></circle><circle cx="310" cy="248.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="310" cy="248.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="1.06s" repeatCount="indefinite"/></circle><circle cx="310" cy="304.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="310" cy="304.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="1.18s" repeatCount="indefinite"/></circle><circle cx="310" cy="360.0" r="9" fill="#060A1C" stroke="#3776AB" stroke-width="2"/><circle cx="310" cy="360.0" r="4" fill="#3776AB"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="1.3s" repeatCount="indefinite"/></circle><circle cx="410" cy="80.0" r="9" fill="#060A1C" stroke="#FFD43B" stroke-width="2"/><circle cx="410" cy="80.0" r="4" fill="#FFD43B"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="1.05s" repeatCount="indefinite"/></circle><circle cx="410" cy="220.0" r="9" fill="#060A1C" stroke="#FFD43B" stroke-width="2"/><circle cx="410" cy="220.0" r="4" fill="#FFD43B"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="1.17s" repeatCount="indefinite"/></circle><circle cx="410" cy="360.0" r="9" fill="#060A1C" stroke="#FFD43B" stroke-width="2"/><circle cx="410" cy="360.0" r="4" fill="#FFD43B"><animate attributeName="r" values="3;5.5;3" dur="2.4s" begin="1.29s" repeatCount="indefinite"/></circle><path d="M418,220 C 470,220 490,220 556,220" stroke="url(#hbridge)" stroke-width="2.5" fill="none" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="24" to="0" dur=".8s" repeatCount="indefinite"/></path><circle r="5" fill="#FF6EC7" filter="url(#glow)"><animateMotion dur="1.2s" repeatCount="indefinite" path="M418,220 C 470,220 490,220 556,220"/></circle><text x="487" y="206" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="12" fill="#FF6EC7">POST /predict</text><text x="260" y="392" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="14" fill="#FFD43B">model.fit(ideas)</text>
+    <rect x="560" y="54" width="590" height="332" rx="16" fill="#0A0F26" stroke="#61DAFB" stroke-opacity=".35"/>
+    <rect x="560" y="54" width="590" height="40" rx="16" fill="#121a3d"/>
+    <rect x="560" y="78" width="590" height="16" fill="#121a3d"/>
+    <circle cx="582" cy="74" r="6" fill="#FF5F57"/>
+    <circle cx="602" cy="74" r="6" fill="#FEBC2E"/>
+    <circle cx="622" cy="74" r="6" fill="#28C840"/>
+    <rect x="710" y="63" width="290" height="22" rx="11" fill="#060A1C"/>
+    <text x="855" y="79" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="12" fill="#7D8AB0">localhost:3000</text>
+    <rect x="560" y="94" width="590" height="1" fill="#ffffff" opacity=".07"/>
 
-<!-- ===== HEADER ===== -->
-
-<a href="https://github.com/umeshyadav7988">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=A371F7&center=true&vCenter=true&width=640&height=60&lines=Hey+%F0%9F%91%8B+I'm+Umesh+Rao;AI+Software+Developer+%F0%9F%A7%A0;Python+brains+%2B+React+faces+%E2%9A%9B%EF%B8%8F;From+model+%E2%86%92+API+%E2%86%92+interface+%F0%9F%9A%80" alt="Umesh Rao" />
-</a>
-
-<p>
-  <em>I train the model, build the API, and design the screen — one developer, the whole pipeline.</em>
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/umeshyadav7988"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=1F6FEB" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/umeshyadav74493"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-  <a href="https://instagram.com/imumeshrao"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-  <a href="mailto:umeshyadav7988@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=umeshyadav7988&label=Visitors&color=A371F7&style=for-the-badge" alt="Profile views"/>
-</p>
-
-</div>
-
----
-
-### 👨‍💻 About
-
-```python
-class Umesh:
-    role      = "AI Software Developer"
-    location  = "Rewari, Haryana, India 🇮🇳"
-    stack     = {"brain": "Python 🐍", "face": "React ⚛️", "glue": "FastAPI ⚡"}
-    focus     = ["Machine Learning", "Deep Learning", "Full Stack"]
-    learning  = ["Cloud", "MLOps", "Scalable Systems"]
-    ask_me    = ["Python", "React", "Node.js", "AI/ML"]
-    fun_fact  = "I debug with console.log() and print() — bilingual and proud 😄"
-
-    def mission(self):
-        return "Put real AI in front of real users."
-```
-
-- 🔭 &nbsp;Currently building **end-to-end AI apps** — notebook → FastAPI → React dashboard
-- 🌱 &nbsp;Leveling up in **deep learning, model deployment & cloud-native scaling**
-- 🧪 &nbsp;Exploring **MLOps pipelines** with Docker & Kubernetes
-- 🤝 &nbsp;Open to collaborating on **open-source** projects that mix ML with great UX
-- 📫 &nbsp;Reach me at **umeshyadav7988@gmail.com**
-
----
-
-### 🧰 Tech Stack
-
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=python,js,ts,java,html,css&theme=dark)](https://skillicons.dev)
-
-**AI / ML & Data**
-
-[![AIML](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark)](https://skillicons.dev)
-&nbsp;·&nbsp; Pandas · NumPy · Matplotlib · Jupyter · Hugging Face
-
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass&theme=dark)](https://skillicons.dev)
-
-**Backend**
-
-[![Backend](https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express&theme=dark)](https://skillicons.dev)
-
-**Databases**
-
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark)](https://skillicons.dev)
-
-**Cloud & DevOps**
-
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel,netlify&theme=dark)](https://skillicons.dev)
-
-**Tools**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&theme=dark)](https://skillicons.dev)
-
----
-
-### 📌 Featured Projects
-
-<!-- Replace REPO_NAME_1 / REPO_NAME_2 with your top repos.
-     Tip: pick one AI/ML project (Python) and one full-stack project (React)
-     so the cards mirror your two strengths. -->
-
-<table>
-<tr>
-<td width="50%">
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=umeshyadav7988&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A371F7&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/umeshyadav7988/REPO_NAME_1)
-
-</td>
-<td width="50%">
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=umeshyadav7988&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A371F7&icon_color=1F6FEB&text_color=C9D1D9)](https://github.com/umeshyadav7988/REPO_NAME_2)
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=umeshyadav7988&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A371F7&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umeshyadav7988&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A371F7&text_color=C9D1D9" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=umeshyadav7988&hide_border=true&background=0D1117&stroke=1F6FEB&ring=A371F7&fire=F78166&currStreakLabel=A371F7&sideLabels=C9D1D9&dates=8B949E" alt="Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umeshyadav7988&hide_border=true&bg_color=0D1117&color=C9D1D9&line=A371F7&point=1F6FEB&area=true&area_color=1F6FEB" alt="Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-**“First, solve the problem. Then, write the code.”** — John Johnson
-
-<sub>Like what you see? Drop a ⭐ on a repo or two — and let's build something intelligent together.</sub>
-
-</div>
+    <g class="reveal r1">
+      <text x="604" y="156" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="15" fill="#61DAFB">&lt;Hello world=&quot;I'm&quot; /&gt;</text>
+    </g>
+    <g class="reveal r2">
+      <text x="600" y="232" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif" font-weight="800" font-size="72" fill="#E6EDF3" letter-spacing="-2">Umesh Rao</text>
+      <rect x="604" y="246" width="360" height="5" rx="2.5" fill="url(#bridge)"/>
+    </g>
+    <g class="reveal r3">
+      <text x="604" y="290" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif" font-size="24" fill="#E6EDF3" opacity=".9">AI software developer</text>
+      <text x="604" y="320" font-family="'Segoe UI','Inter','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#7D8AB0">I train the model, build the API and ship the interface.</text>
+    </g>
+    <g class="reveal r4">
+      <circle cx="610" cy="357" r="5" fill="#28C840"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+      <text x="624" y="362" font-family="'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace" font-size="13" fill="#7EE787">compiled successfully · Rewari, Haryana 🇮🇳</text>
+    </g>
+    <rect x="988" y="184" width="4" height="54" fill="#61DAFB" class="cursor"/>
+    </svg>
